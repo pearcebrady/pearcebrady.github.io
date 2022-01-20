@@ -1,0 +1,25 @@
+img 
+{
+    height: 500px;
+    text-align: center;
+}
+
+img:hover 
+{
+    height: 1000px;
+    text-align: center;
+}
+
+figcaption 
+{
+    text-align: center;
+    color: firebrick;
+    text-emphasis-color: blue;
+}
+
+.center 
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
